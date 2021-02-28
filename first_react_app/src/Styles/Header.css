@@ -1,0 +1,100 @@
+@media only screen and (min-width:601px) and (max-width: 780px)
+{
+    .enter
+     {
+        margin-left: 76%;
+    }
+}
+@media only screen and (max-width: 600px){
+    .enter{
+        margin-left: 61%;
+
+    }
+}
+@media only screen and (min-width:781px) and (max-width:900px)
+{
+    .enter{
+        margin-left: 76%;
+
+    }
+}
+@media only screen and (min-width:900px) and (max-width:1115px)
+{
+    .enter{
+        margin-left: 79%;
+
+    }
+}
+@media only screen and (min-width:1115px) and (max-width:1200px)
+{
+    .enter{
+        margin-left: 83%;
+
+    }
+    
+}
+@media only screen and (min-width:1200px) and (max-width:1225px)
+{
+    .enter{
+        margin-left: 85%;
+
+    }
+}
+@media only screen and (min-width:1225px) and (max-width:1300px)
+{
+    .enter{
+        margin-left: 84%;
+    }
+}
+@media only screen and (min-width:1300px) and (max-width:1400px)
+{
+    .enter{
+    margin-left: 84%;
+}
+}
+
+/* .newlogo
+{
+   color:red;
+    border-radius: "123%";
+        background-color: "white";
+        margin-left: '6%';
+         width: '37px';
+         font-size: '29px';
+        font-Family: 'times new roman';
+        height: '36px';
+        padding-left: '6px';
+        margin-top:' -32px';
+        position: absolute;
+} */
+
+.logos{
+    position: absolute;
+    color: red;
+    border-radius: 94%;
+    border: 1px solid;
+    background-color: white;
+    margin-left: 30%;
+    margin-top: -38px;
+    width: 45px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'times new roman';
+    font-weight: 600;
+
+}
+.logoos
+{
+    position: absolute;
+    color: red;
+    border-radius: 94%;
+    border: 1px solid;
+    background-color: white;
+    margin-left: 42%;
+    margin-top: -38px;
+    width: 45px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'times new roman';
+    font-weight: 600;  
+}

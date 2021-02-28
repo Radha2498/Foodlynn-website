@@ -1,0 +1,740 @@
+.logosection{
+    position: absolute;
+    color: red;
+    border-radius: 123%;
+    background-color: white;
+    margin-left: 6%;
+    /* margin-top: 12px; */
+    margin-top:-36px;
+    width: 62px;
+    font-size: 284%;
+    text-align: center;
+    font-family: Arial;
+    height: 59px;
+    line-height: 1.5;
+    font-weight: 700;
+}
+
+.login
+{
+    color: white;
+    text-align: right;
+    right: 27%;
+    position: absolute;
+    top: 4%;
+    font-family: 'Times New Roman';
+    font-size: 21px;
+}
+ 
+.Rectangle1 
+{
+    width:  100%;
+    /* height: 80px; */
+    height: 40px;
+    background-color:#ce0505;
+   
+}
+.Rect2{
+    border: 1px solid white;
+    width: 15%;
+    height: 54px;
+    margin-left: 77%;
+    border-radius: 3px;
+    color: white;
+    top: 2%;
+    position: absolute;
+    text-align: center;
+    font-size: 19px;
+    line-height: 0.5;
+    font-family: 'Times New Roman';
+    padding-top: 17px;
+}
+.heading1
+{
+    color: darkblue;
+    margin-top: 3%;
+    margin-left: 11%;
+    font-family: 'Times New Roman';
+    font-size: 42px;
+}
+
+/* *******blocks********* */
+.blocknew
+{
+    width: 260px;
+    height: 682px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: white;
+    margin-left: 29%;
+  }
+
+  .select1{
+    width: 227px;
+    height: 44px;
+    font-family:'Times New Roman';
+    background-color: white;
+    margin-left: 17px;
+    font-size: 18px;
+    border:2px solid black;
+    color: grey;
+    
+}
+
+.opt
+{
+    font-family: 'Times New Roman';
+    font-size:18px;
+    
+    
+}
+
+/* *******Cuisine and Price******** */
+.cusine
+{
+    margin-left: 24px;
+    margin-top: -3px;
+    font-family: 'Times New Roman';
+    line-height: 1.8;
+    color: grey;
+    font-size: 18px;
+    
+}
+
+.price
+{
+    font-family: 'Times New Roman';
+    font-size: 18px;
+    line-height: 1.8;
+    color: grey;
+    margin-left: 24px;
+    margin-top: 15px;
+
+}
+.NorthIndian
+{
+    width: 2rem;
+    height: 16px;
+    margin-left: -2%;
+
+  
+}
+
+.SouthFood
+{
+    width: 2rem;
+    height: 16px;
+    margin-left: -2%;
+}
+
+.Chinese
+{
+    width: 2rem;
+    height: 16px;
+    margin-left: -2%;
+}
+
+.FastFood
+{
+    width: 2rem;
+    height: 16px;
+    margin-left: -2%;
+}
+
+.StreetFood
+{
+    width: 2rem;
+    height: 16px;
+    margin-left: -2%;
+}
+
+.p1
+{
+    width: 2rem;
+    height: 16px;
+    margin-left: -2%;
+}
+.p2
+{
+    width: 2rem;
+    height: 16px;
+    margin-left: -2%;
+}
+
+.p3
+{
+    width: 2rem;
+    height: 16px;
+    margin-left: -2%;
+}
+
+.p4
+{
+    width: 2rem;
+    height: 16px;
+    margin-left: -2%;
+}
+
+.p5
+{
+    width: 2rem;
+    height: 16px;
+    margin-left: -2%;
+}
+
+.sort{
+    margin-left: 25px;
+    margin-top: 11px;
+    font-family: 'Times New Roman';
+    font-size: 18px;
+    line-height: 1.8;
+    color: grey;
+   
+
+}
+.s1{
+    width: 2rem;
+    height: 16px;
+    margin-left: -2%;
+}
+
+.s2
+{
+    width: 2rem;
+    height: 16px;
+    margin-left: -2%;
+}
+.item
+{
+        width: 84%;
+        height: 251px;
+        box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+        background-color: white;
+        /* margin-bottom: 15px; */
+        margin-top: 2%;
+      
+}
+.image-1
+{
+  
+    width: 124px;
+    height: 113px;
+    border-radius: 35px;
+    margin-left: 25%;
+    margin-top: 13px;
+}
+
+.The-Big-Chill-Cakery {
+    width: 298px;
+    height: 43px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: darkblue;
+    margin-top: 2%;
+  }
+
+  .FORT {
+    /* width: 39px; */
+    height: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color:  darkblue;
+  }
+  .Shop-1-Plot-D-Samruddhi-Complex-Chincholi- {
+    width: 365px;
+    height: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+  }
+
+  .Cuisine-type
+  {
+    width: 117px;
+    height: 34px;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    margin-left: 57%;
+
+  }
+
+  /* .bakery-type
+  {
+    width: 251px;
+    height: 32px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: darkblue;
+  } */
+  .bakery-type1
+{
+    margin-left: 4rem;
+    margin-top: 0.5rem;
+    font-family: Poppins;
+    font-size: 18px;
+    color: darkblue;
+}
+
+.bakery-type2
+{
+    margin-left: 4rem;
+    margin-top: 1rem;
+    font-family: Poppins;
+    font-size: 18px;
+    color: darkblue;
+}
+
+  .pagination 
+{
+    display: inline-block;
+}
+  
+.pagination a 
+{
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+    margin: 0 4px;
+    border-radius: 15px;
+}
+  
+.pagination a.active 
+{
+    background-color:gray;
+    color: white;
+    border: 1px solid #4CAF50;
+}
+  
+.pagination a:hover:not(.active)
+{
+       background-color: #ddd;
+}
+/* *******media-queries******* */
+@media only screen and  (max-width:600px)
+{
+    .Rect2
+    {
+        line-height: 1.1;
+        padding-top: 7px;
+    }
+
+.item
+{
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: white;
+    margin-top: 4%;
+    width: 100%;
+    height: 52%;
+}
+
+.image-1
+ {
+    width: 124px;
+    height: 113px;
+    border-radius: 35px;
+    margin-left: 3%;
+    margin-top: 13px;
+}
+
+.Shop-1-Plot-D-Samruddhi-Complex-Chincholi-
+{
+    width: 306px;
+    height: 65px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    margin-left: 36%;
+
+}
+.The-Big-Chill-Cakery {
+    width: 298px;
+    height: 43px;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: darkblue;
+    margin-top: -28%;
+    margin-left: 34%;
+}
+.FORT {
+    /* width: 39px; */
+    height: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: darkblue;
+    margin-left: 36%;
+}
+.Cuisine-type { 
+    width: 117px;
+    height: 34px;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    margin-left: 7rem;
+     /* margin-top: -1%; */
+
+}   
+.bakery-type1
+{
+    margin-left: 21rem;
+    margin-top: -6.2rem;
+    font-family: Poppins;
+    font-size: 18px;
+    color: darkblue;
+}
+
+.bakery-type2
+{
+    margin-left: 21rem;
+    margin-top: 1rem;
+    font-family: Poppins;
+    font-size: 18px;
+    color: darkblue;
+}
+.section-1
+{
+    position: absolute;
+    margin-left: 14%;
+    margin-top: -7%;
+}
+.section-2
+{
+    position: absolute;
+    margin-left: 14%;
+    margin-top: -7%;
+}
+.image-1
+{
+    position: sticky;
+}
+.pagination
+{
+    margin-left: 11% !important;
+}
+}
+
+@media only screen and  (min-width:601px) and (max-width:767px)
+{
+    .Rect2
+    {
+        line-height: 1.1;
+        padding-top: 7px;
+    }
+
+.item
+{
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: white;
+    margin-top: 4%;
+    width: 100%;
+    height: 52%;
+}
+
+.image-1
+ {
+    width: 124px;
+    height: 113px;
+    border-radius: 35px;
+    margin-left: 3%;
+    margin-top: 13px;
+}
+
+.Shop-1-Plot-D-Samruddhi-Complex-Chincholi-
+{
+    width: 306px;
+    height: 65px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    margin-left: 36%;
+
+}
+.The-Big-Chill-Cakery {
+    width: 298px;
+    height: 43px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: darkblue;
+    margin-top: -28%;
+    margin-left: 34%;
+}
+.FORT {
+    /* width: 39px; */
+    height: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: darkblue;
+    margin-left: 36%;
+}
+.Cuisine-type { 
+    width: 117px;
+    height: 34px;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    margin-left: 7rem;
+     /* margin-top: -1%; */
+
+}   
+.bakery-type1
+{
+    margin-left: 21rem;
+    margin-top: -6.2rem;
+    font-family: Poppins;
+    font-size: 18px;
+    color: darkblue;
+}
+
+.bakery-type2
+{
+    margin-left: 21rem;
+    margin-top: 1rem;
+    font-family: Poppins;
+    font-size: 18px;
+    color: darkblue;
+}
+.section-1
+{
+    position: absolute;
+    margin-left: 14%;
+    margin-top: -7%;
+}
+.section-2
+{
+    position: absolute;
+    margin-left: 14%;
+    margin-top: -7%;
+}
+.image-1
+{
+    position: sticky;
+}
+.pagination
+{
+    margin-left: 18% !important;
+}
+}
+
+@media only screen and  (min-width:767px) and (max-width:1100px)
+{
+    
+  .blocknew
+  {
+    width: 260px;
+    height: 682px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: white;
+    margin-left: -4%;
+  }
+        
+    .select1
+     {
+        margin-left: 10px;
+    }
+    .Rect2
+    {
+        line-height: 1.1;
+        padding-top: 7px;
+    }
+
+.item
+{
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: white;
+    margin-top: 4%;
+    width: 100%;
+    height: 52%;
+}
+
+.image-1
+ {
+    width: 124px;
+    height: 113px;
+    border-radius: 35px;
+    margin-left: 3%;
+    margin-top: 13px;
+}
+.heading1 {
+    color: darkblue;
+    margin-top: 3%;
+    margin-left: 0%;
+    font-family: 'Times New Roman';
+    font-size: 42px;
+}
+
+.Shop-1-Plot-D-Samruddhi-Complex-Chincholi-
+{
+    width: 306px;
+    height: 65px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    margin-left: 36%;
+
+}
+.The-Big-Chill-Cakery {
+    margin-top: 15%;
+    margin-left:33%;
+}
+.FORT {
+    /* width: 39px; */
+    height: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: darkblue;
+    margin-left: 36%;
+}
+.Cuisine-type { 
+    width: 117px;
+    height: 34px;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    margin-left: 7rem;
+     /* margin-top: -1%; */
+
+}   
+.bakery-type1
+{
+    margin-left: 4rem;
+    margin-top: 0.5rem;
+    font-family: Poppins;
+    font-size: 18px;
+    color: darkblue;
+}
+
+.bakery-type2
+{
+    margin-left: 4rem;
+    margin-top: 1rem;
+    font-family: Poppins;
+    font-size: 18px;
+    color: darkblue;
+}
+.section-1
+{
+    position: absolute;
+    margin-left: 14%;
+    margin-top: -7%;
+}
+.section-2
+{
+    position: absolute;
+    margin-left: 14%;
+    margin-top: -7%;
+}
+.image-1
+{
+    position: sticky;
+}
+.pagination
+{
+    margin-left: 40% !important;
+    margin-top: -5% !important;
+}
+}
+.data{
+    color: #ce0505;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    margin-top:10px;
+}
